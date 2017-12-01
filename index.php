@@ -1,4 +1,5 @@
 <?php
-echo "Meu primeiro codigo PHP! Hello word cruel";
+
+echo "Hello World !!";
 
 ?>
